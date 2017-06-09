@@ -1,0 +1,29 @@
+
+th {
+  font-size:23px;
+  font-weight: 100;
+  padding:10px;
+  text-align:left;
+  vertical-align:middle;
+}
+
+  
+tr {
+  font-size:16px;
+  font-weight:normal;
+}
+ 
+td {
+  text-align:center;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:18px;  
+}
+
+table{
+    width: 100%;
+}
+
+td{
+  width: 33.3%;
+}
